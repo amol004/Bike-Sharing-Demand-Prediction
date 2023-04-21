@@ -1,1 +1,1 @@
-# Bike-Sharing-Demand-Prediction
+Currently many big communities have adopted the use of rental bikes to improve transportation comfort. It is crucial to make the rental bikes accessible and available to the general public at the appropriate time since it reduces waiting. Eventually, maintaining a steady supply of rental bikes for the city emerges as a top priority. Predicting how many bikes will be needed each hour to maintain a steady supply of rental bikes is important
