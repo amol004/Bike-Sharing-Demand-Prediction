@@ -54,7 +54,10 @@ Solar radiation or UV radiation is Float type.
 Rainfall feature in mm which indicates 1 mm of rainfall which is equal to 1 litre of water per metre square is Float type.
 
 ### Snowfall (cm): 
-Snowfall in cm is Float type. Seasons: Season, in this feature four seasons are present in data is str type.
+Snowfall in cm is Float type. 
+
+### Seasons: 
+Season, in this feature four seasons are present in data is str type.
 
 ### Holiday:
 whether no holiday or holiday can be retrieved from this feature is str type.
