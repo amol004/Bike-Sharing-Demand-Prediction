@@ -67,3 +67,30 @@ Whether the day is Functioning Day or not can be retrieved from this feature is 
 
 ### Weekend :
 Weekend extracted from Day 1 when the day is Saturday or Sunday while 0 when weekdays
+
+# Conclusion and Insight:
+1.Summer was the season with the highest number of bike rentals, followed by Autumn, Spring, and Winter. The busiest months for renting bikes are May through July, while December through February are the least popular months.
+
+2.The working class makes up the vast majority of customers in the bike rental industry. The EDA study shows that in Seoul, the demand for bikes is higher during the weekdays while people are at work.
+
+3.The best conditions are found in the afternoon from 4 to 8 pm, when the humidity is between 40% and 60%, and the temperature is between 20 and 30 degrees.
+
+4.Major elements influencing the demand for rental bikes include temperature, daytime, solar radiation, humidity, and hour of the day.
+
+5.The linear model's prediction was very low since there was a very weak linear relationship between the feature and the labels.
+
+    	Models	              Train Accuracy	       Test Accuracy
+    
+    Linear Regression               68.62%    	       68.87%
+
+
+    Polynomial Regression           80.88%	                79.97%
+
+	
+    RidgeCV                         76.30%	                74.71%
+
+	
+    LassoCV	                        75.32%	                74.07%
+
+	
+    ElasticNetCV	                71.87%	                70.85%
